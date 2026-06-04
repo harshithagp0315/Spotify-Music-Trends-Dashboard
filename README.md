@@ -33,3 +33,6 @@ Through this project, I improved my skills in:
 • Interactive reporting using Power BI
 • Analytical thinking and insight generation
 
+## Dashboard
+dashboard_preview.png
+
