@@ -34,5 +34,5 @@ Through this project, I improved my skills in:
 • Analytical thinking and insight generation
 
 ## Dashboard
-dashboard_preview.png
+![Dashboard Preview](dashboard_preview.png)
 
